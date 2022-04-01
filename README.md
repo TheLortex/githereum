@@ -14,6 +14,8 @@ and propose changes and new contracts !
 Each Github user starts with 10 Gitcoins, and can ask for them by opening an _issue_ containing a proof of existence.
 The monetary value of the Gitcoin is a constant integer and that integer is zero. As such, Gitcoins can be considered as _internet points_.
 
+The ledger content is stored in this file: `/purse`
+
 ## Transaction
 
 To perform a transaction:
