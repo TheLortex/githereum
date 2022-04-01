@@ -41,6 +41,7 @@ Active contracts:
 
 - Universal Basic Income: https://github.com/TheLortex/githereum/tree/main/smart/UBI.md
 - NFTs: https://github.com/TheLortex/githereum/tree/main/smart/NFT.md
+- Conditional transactions: https://github.com/TheLortex/githereum/tree/main/smart/Conditional.md
 
 ## Q&A
 
