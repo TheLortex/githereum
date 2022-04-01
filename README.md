@@ -31,13 +31,16 @@ A transaction is considered valid if:
  - the creator of the transaction has proven its existence
  - the contracts are respected
 
+Example transaction: https://github.com/TheLortex/githereum/pull/7
+
 ## Smart contracts
 
 Just add legal documents in the `/smart` folder.
 
 Active contracts:
 
-- Universal Basic Income: https://github.com/TheLortex/githereum/tree/main/smart
+- Universal Basic Income: https://github.com/TheLortex/githereum/tree/main/smart/UBI.md
+- NFTs: https://github.com/TheLortex/githereum/tree/main/smart/NFT.md
 
 ## Q&A
 
