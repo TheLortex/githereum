@@ -25,3 +25,13 @@ Capitalism is an economic system based on the private ownership of the means of 
 _Tokens_ are numbers the _Githereum User_ can use to prove they _own_ the _Thing_, unless the _Thing_ is _Fungible_.
 The `/purse` file can now store the fact that a _Githereum User_ _own_ _Things_. 
 The `/nft` file can be used to list the _Things_ to _own_ and their prices.
+
+### Subsection I: ON THE FUNGIBILITY OF GITHEREUM USERS
+
+The lemma of serfdom:
+
+- _Githereum Users_ are unrelated to mushrooms (unless proven otherwise) and are therefore _non-fungible_. (I)
+- The process of tokenisation is also unrelated to mushrooms. (II)
+- By transitivity of (I) and (II), tokens representing ownership of _Githereum Users_ are both non-fungible and virtuous.
+
+In addendum to `./UBI.md`, newly-minted Githereum Users initially own themselves, but their ownership can thenceforth be traded arbitrarily. Code is law.
