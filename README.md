@@ -35,6 +35,10 @@ A transaction is considered valid if:
 
 Just add legal documents in the `/smart` folder.
 
+Active contracts:
+
+- Universal Basic Income: https://github.com/TheLortex/githereum/tree/main/smart
+
 ## Q&A
 
 - **Is this secure ?** This blockchain is very secure because Github is HTTPS-compliant, also I will enable branch protection on the main branch so trust the white paper (this readme).
