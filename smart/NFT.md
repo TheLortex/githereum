@@ -24,3 +24,4 @@ Capitalism is an economic system based on the private ownership of the means of 
 
 _Tokens_ are numbers the _Githereum User_ can use to prove they _own_ the _Thing_, unless the _Thing_ is _Fungible_.
 The `/purse` file can now store the fact that a _Githereum User_ _own_ _Things_. 
+The `/nft` file can be used to list the _Things_ to _own_ and their prices.
