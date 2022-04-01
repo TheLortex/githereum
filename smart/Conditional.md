@@ -4,7 +4,7 @@
 
 An _Open Problem_ is a problem which has no answer _yet_. Examples of _Open Problems_ include:
 - Is P == NP ?
-- Will the sun rise tomorrow ?
+- Navier–Stokes existence and smoothness
 
 ## Article II: CONDITIONAL TRANSACTIONS
 
