@@ -37,7 +37,8 @@ Just add legal documents in the `/smart` folder.
 
 Active contracts:
 
-- Universal Basic Income: https://github.com/TheLortex/githereum/tree/main/smart
+- Universal Basic Income: https://github.com/TheLortex/githereum/tree/main/smart/UBI.md
+- NFTs: https://github.com/TheLortex/githereum/tree/main/smart/NFT.md
 
 ## Q&A
 
